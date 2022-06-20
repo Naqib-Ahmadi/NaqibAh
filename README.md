@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Naqib Ahmadi
+- 👋 Hi, I’m Naqibullah Ahmadi
 - 👀 I’m interested in Quantitative Economics, Financial Economics, Monetary Policy.
 - 🌱 I’m currently pursuing MA in Applied Economics
 - 💞️ I’m looking to collaborate on Quantitative Analysis projects
